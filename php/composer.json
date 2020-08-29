@@ -1,0 +1,6 @@
+{
+  "require": {
+    "peridot-php/peridot": "^1.19",
+    "winzou/state-machine": "^0.4.0"
+  }
+}
